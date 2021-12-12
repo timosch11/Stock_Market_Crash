@@ -6,7 +6,7 @@ data into a Table and creates a local JSON Copy.
 _**DailyHistData1:**
 
 -> Python Programm seraches db for newest entry date, adds a day onto this date and takes the resulting data as a startdate for getting new
-data for all following days. Formatting all the incoming data into the right format & load it into a db. With the for-loop it iterates through all existing stock symbols. --> Not in Use anymore_
+data for all following days. Formatting all the incoming data into the right format & load it into a db. With the for-loop it iterates through all existing stock symbols. --> Not in Use anymore.
 
 
 **ETF_Country:**
@@ -39,5 +39,5 @@ You can also choose the path where local docs are getting saved.
 
 **GetCurrency:**
 
---> For the conversion of the currencys in PostgreSQL
+--> For the conversion of the currencys in PostgreSQL.
 
